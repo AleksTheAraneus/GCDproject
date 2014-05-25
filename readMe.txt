@@ -102,4 +102,3 @@ __________________________________
 run_analysis.R
 readMe.txt
 codeBook.md
-resultOfRunAnalysis.txt
